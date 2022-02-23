@@ -8,5 +8,11 @@
 
 - [Semantic UI Website](https://semantic-ui.com/)
 
+- React
+  ` yarn create react-app widget`
+
 - Added semantic UI  
   ` <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />`
+
+- Axios  
+  `yarn add axios `
